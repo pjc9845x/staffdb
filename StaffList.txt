@@ -1,0 +1,8 @@
+FT|007|James Bond|Spy|10000|500
+S|55|Gordon Ramsay|Chef|8000
+PT|P11|John Doe|Freelance Coder|800|12
+FT|F99|Sigma|Maverick Leader|90000|100
+S|57|Saber|Holy Grail War Servant|2000
+S|68|Kirito|Black Swordsman|5000
+FT|F34|Paul McCartney|Beatles|7000|500
+PT|P21|Pikachu|Electric Mouse Pokemon|500|10
