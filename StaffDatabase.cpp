@@ -44,8 +44,6 @@ int main()
 
     cout<<"---------------------------------------\n";
     cout<<"Staff Directory Program\n"<<endl;
-    cout<<"Author: Saitama II\n"
-        <<"Supervisor: Dennis Enviro500"<<endl;
     cout<<"---------------------------------------\n";
 
     while (cont)
